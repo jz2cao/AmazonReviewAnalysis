@@ -5,7 +5,7 @@ Using NLP text processing techniques, determine the insights that made an useful
 The project is completed with PySpark in Databrick
 
 
-- Note: since the project is completed in Databrick and there might be some issue with the exported file.
+- Note: since the project is completed in Databrick and there might be some issues with the exported file.
   Please download the .html file to view the complete orgional notebook.
 
 ## Project flow
